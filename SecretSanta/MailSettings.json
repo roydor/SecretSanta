@@ -1,0 +1,6 @@
+﻿{
+  "SantasEmail": "westcoastfamilysanta@gmail.com",
+  "SantasPassword": "[create an app password, and allow less secure apps",
+  "SantasSubject": "WestCoastFamily Secret Santa",
+  "SantasMessage": "<big>Merry Christmas {0}!</big></br></br>The elves and I are very busy getting ready for Christmas, and I'm very excited to be visiting you soon!</br>As always, I have been making a list and checking it twice, but this year something terrible has happened:</br></br>I can't find <big><b><u>{1}</b></u></big> in my list!</br></br>Can you do me the biggest of favours?</br>I need you to pick something up for them (something around <big><b><u>$30.00 USD</b></u></big> would be perfect) and deliver it to Roy's on <big><b><u>January 10, 2016</b></u></big>.</br></br>Remember to keep this just between us; it's embarassing for me to ask for help, so please keep it a secret...</br></br>--Santa</br>"
+}
