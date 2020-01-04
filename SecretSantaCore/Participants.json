@@ -1,0 +1,36 @@
+﻿[
+  {
+    "Name": "Participant #1",
+    "Email": "",
+    "Restrictions": [
+      "Participant #2",
+      "Participant #3",
+      "Participant #5",
+    ]
+  },
+  {
+    "Name": "Participant #2",
+    "Email": "",
+    "Restrictions": [
+      "Participant #1"
+    ]
+  },
+  {
+    "Name": "Participant #3",
+    "Email": "",
+    "Restrictions": [
+    ]
+  },
+  {
+    "Name": "Participant #4",
+    "Email": "",
+    "Restrictions": [
+    ]
+  },
+  {
+    "Name": "Participant #5",
+    "Email": "",
+    "Restrictions": [
+    ]
+  }
+]
